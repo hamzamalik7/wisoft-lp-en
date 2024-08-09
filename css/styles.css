@@ -151,7 +151,7 @@ p.standard-text {
 
 .orange-sphere {
   position: relative;
-  background-image: url("../assets/images/3-text.png");
+  background-image: url("../assets/images/3-text.webp");
   background-size: cover;
   background-position: center;
   border-radius: 50%;
@@ -499,7 +499,7 @@ h4.service-title-3 {
 
 .welcome {
   position: relative;
-  background: url(../assets/images/1-eng.png) no-repeat;
+  background: url(../assets/images/1-eng.webp) no-repeat;
   background-position: cover;
   background-size: cover;
   align-items: left;
